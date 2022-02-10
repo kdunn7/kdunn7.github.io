@@ -8,13 +8,13 @@ logo: # filename of a logo image that has been placed into your images directory
 owner:
   name: Katie Dunn
   avatar: bio-photo.jpg
-  bio: "A brief description of yourself."
+  bio: PhD Candidate in Optics studying computational microscopy at the University of Rochester's Institute of Optics
   email: #emailaddress
   # Do not include the @ symbol in your Twitter username
   twitter: #username
-  linkedin: #username
+  linkedin: https://www.linkedin.com/in/kdunn-optics/
   github: #username
-  orcid: # ID Number (ex. 0000-0000-0000-0000)
+  orcid: 0000-0003-4220-7184
   researchgate: #username
   mendeley: #username
   google:
