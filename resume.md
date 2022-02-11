@@ -36,8 +36,6 @@ Barry Goldwater Scholarship Honorable Mention
 
 <!-- A list is also available [online](https://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 
-### Journals
-
 R. Draham, K. Dunn, and A. Berger. “Phase sensitive, angle-resolved light-scattering microscopy of single cells,”
 Opt. Lett., Vol. 45, No. 24, 2020. (Editor’s Pick.)
 
