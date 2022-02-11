@@ -5,22 +5,32 @@ menutitle: Resume
 ---
 ## Currently
 
-Current Position Description
+PhD candidate at the Institute of Optics, University of Rochester, studying computational microscopy. My dissertation work is in using angularly resolved light scattering, obtained via quantitative phase imaging and Fourier analysis, to studying the size distribution of organelles in single cells.
 
 ## Education
 
-`1990 - 1994`
-__University Name__
-Degree Awarded
+`2013-2017`
+__Clarkson University__
+B.S. Electrical Engineering (Honors) and Physics
 
-`1995 - 1997`
-__University Name__
-Degree Awarded 
+`2017-2019`
+__University of Rochester__
+M.S. Optics
 
 ## Awards
 
-`2012`
-Name of Award, Organization 
+`2022`
+BiOS 3 minute Poster Competition Winner, SPIE Photonics West
+
+`2017`
+National Science Foundation Graduate Fellowship
+
+`2016`
+Barry Goldwater Scholarship Winner
+
+`2015`
+Barry Goldwater Scholarship Honorable Mention
+
 
 ## Publications
 
