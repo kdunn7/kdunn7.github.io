@@ -1,14 +1,14 @@
 # Site wide configuration
 
-title: Site Title
+title: Katie Dunn
 locale: en_US
 logo: # filename of a logo image that has been placed into your images directory
 
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
   name: Katie Dunn
-  avatar: bio-photo.jpg
-  bio: PhD Candidate in Optics studying computational microscopy at the University of Rochester's Institute of Optics
+  avatar: Kaitlin Dunn_22-01-26_3286.jpg
+  bio: PhD Candidate in Optics studying computational microscopy at the University of Rochester's Institute of Optics.
   email: #emailaddress
   # Do not include the @ symbol in your Twitter username
   twitter: #username
