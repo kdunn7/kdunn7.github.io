@@ -38,42 +38,38 @@ Barry Goldwater Scholarship Honorable Mention
 
 ### Journals
 
-`1994`
-Article Title, Journal Title
+R. Draham, K. Dunn, and A. Berger. “Phase sensitive, angle-resolved light-scattering microscopy of single cells,”
+Opt. Lett., Vol. 45, No. 24, 2020. (Editor’s Pick.)
 
-`1994`
-Article Title, Journal Title
+B. Cochenour, K. Dunn, A. Laux and L. Mullen. “Experimental measurements of the magnitude and phase
+response of high-frequency modulated light underwater,” Appl. Opt., Vol. 56, No. 14, 2017.
 
-### Books
-
-`1994`
-Book Title, Journal Title
-
-`1994`
-Book Title, Journal Title
-
+B. Cochenour, K. Morgan, K. Dunn, L. Mullen, K. Miller, and E. Johnson. “Propagation of optical beams carrying
+orbital angular momentum (OAM) in turbid water,” Appl. Opt., Vol. 55, No. 31, 2016.
 
 ## Presentations
 
-`1994`
-Presentation Title, Conference, <a href="https://MyWebsite.tld/presentation1">Link to Presentation</a>
+K. Dunn and A. Berger. “Simulating angular light scattering of non-nuclear organelles in single cells,” in
+Biophotonics Congress: Optics in the Life Sciences, oral presentation, Apr. 2021.
 
+## Selected Research and Industry Experiences
 
-## Occupation
+`2017 - present`
+__PhD Candidate, Angular Scattering from Single Cells__, The Institute of Optics, University of Rochester, NY
 
-`Current`
-__Current Job Title__, Current Employer 
+- Measuring angularly resolved light scattering to size ensembles of organelles in single cells with a phase shifting
+interferometry-based microscope.
+- Designing and testing refractive index matching and digital processing methods to isolate organelle scattering
+from undesired nuclear and cytoplasm signal.
+- Programmed a 3D cell simulation tool to improve understanding of the limiting noise sources in extracting size
+information from single cells, and to test ability to solve inverse problem in the presence of noise and
+assumptions about model simplicity.
 
-- Task
-- Task
+`May-Aug. 2019`
+__Internship (NSF INTERN)__, Double Helix Optics, Boulder CO
 
-`1994-1996`
-__Current Job Title__, Current Employer 
-
-- Task
-- Task
-
-
+- Tested and designed point spread function engineered phase masks for single-shot 3D imaging.
+- Implemented algorithms to discard outliers in 3D point cloud rendering.
 
 <!-- ### Footer
 
