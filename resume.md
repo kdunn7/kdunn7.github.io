@@ -5,7 +5,7 @@ menutitle: Resume
 ---
 ## Currently
 
-PhD candidate at the Institute of Optics, University of Rochester, studying computational microscopy. My dissertation work is in using angularly resolved light scattering, obtained via quantitative phase imaging and Fourier analysis, to studying the size distribution of organelles in single cells.
+I am a PhD candidate at the Institute of Optics, University of Rochester studying computational microscopy. My dissertation work is in using angularly resolved light scattering, obtained via quantitative phase imaging and Fourier analysis, to study the size distribution of organelles in single cells.
 
 ## Education
 
