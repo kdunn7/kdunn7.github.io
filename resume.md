@@ -3,9 +3,7 @@ layout: resume
 menuorder: 3
 menutitle: Resume
 ---
-## Currently
-
-I am a PhD candidate at the Institute of Optics, University of Rochester studying computational microscopy. My dissertation work is in using angularly resolved light scattering, obtained via quantitative phase imaging and Fourier analysis, to study the size distribution of organelles in single cells.
+I am currently a PhD candidate at the Institute of Optics, University of Rochester studying computational microscopy. My dissertation work is in using angularly resolved light scattering, obtained via quantitative phase imaging and Fourier analysis, to study the size distribution of organelles in single cells.
 
 ## Education
 
@@ -47,6 +45,8 @@ orbital angular momentum (OAM) in turbid water,” Appl. Opt., Vol. 55, No. 31, 
 
 ## Presentations
 
+K. Dunn, C. Weil, and A. Berger "Refractive index-matching a cell’s immersion medium isolates organelle scattering and increases QPI contrast", Proc. SPIE PC11970, Quantitative Phase Imaging VIII, PC1197002 (2 March 2022); https://doi.org/10.1117/12.2631742
+
 K. Dunn and A. Berger. “Simulating angular light scattering of non-nuclear organelles in single cells,” in
 Biophotonics Congress: Optics in the Life Sciences, oral presentation, Apr. 2021.
 
@@ -69,6 +69,14 @@ __Internship (NSF INTERN)__, Double Helix Optics, Boulder CO
 - Tested and designed point spread function engineered phase masks for single-shot 3D imaging.
 - Implemented algorithms to discard outliers in 3D point cloud rendering.
 
+`May 2016 - May 2017`
+__Honors Thesis / Naval Research Enterprise Internship: Experimental channel measurements and simulated
+adaptive equalization filters for optical communication in turbid water__, 
+Dept. Elec. & Comp. Eng., Clarkson University
+Naval Air Warfare Center, Patuxent River, MD
+- Conducted experiments to study the forward scattering and frequency response of intensity modulated laser light
+propagating through different scattering agents and water turbidities.
+- Designed and simulated adaptive channel equalization filters for underwater optical communication.
 <!-- ### Footer
 
 Last updated: May 2013 -->
