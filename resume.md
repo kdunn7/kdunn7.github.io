@@ -12,6 +12,7 @@ I am a PhD candidate at the Institute of Optics, University of Rochester studyin
 `2013-2017`
 __Clarkson University__
 B.S. Electrical Engineering (Honors) and Physics
+
 `2017-2019`
 __University of Rochester__
 M.S. Optics
