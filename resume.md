@@ -48,14 +48,14 @@ Biophotonics Congress: Optics in the Life Sciences, oral presentation, Apr. 2021
 
 `2017 - present`
 __PhD Candidate, Angular Scattering from Single Cells__  
-The Institute of Optics, University of Rochester, NY
+The Institute of Optics, University of Rochester, NY  
 • Measuring angularly resolved light scattering to size ensembles of organelles in single cells with a phase shifting interferometry-based microscope.  
 • Designing and testing refractive index matching and digital processing methods to isolate organelle scattering from undesired nuclear and cytoplasm signal.  
 • Programmed a 3D cell simulation tool to improve understanding of the limiting noise sources in extracting size information from single cells, and to test ability to solve inverse problem in the presence of noise and assumptions about model simplicity.
 
 `May-Aug. 2019`
 __Internship (NSF INTERN)__  
-Double Helix Optics, Boulder CO
+Double Helix Optics, Boulder CO  
 • Tested and designed point spread function engineered phase masks for single-shot 3D imaging.  
 • Implemented algorithms to discard outliers in 3D point cloud rendering.
 
@@ -63,7 +63,7 @@ Double Helix Optics, Boulder CO
 __Honors Thesis / Naval Research Enterprise Internship:  
 Experimental channel measurements and simulated adaptive equalization filters for optical communication in turbid water__,  
 Dept. Elec. & Comp. Eng., Clarkson University  
-Naval Air Warfare Center, Patuxent River, MD
+Naval Air Warfare Center, Patuxent River, MD  
 • Conducted experiments to study the forward scattering and frequency response of intensity modulated laser light propagating through different scattering agents and water turbidities.  
 • Designed and simulated adaptive channel equalization filters for underwater optical communication.
 
