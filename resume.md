@@ -35,17 +35,17 @@ Barry Goldwater Scholarship Honorable Mention
 <!-- A list is also available [online](https://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 
 R. Draham, K. Dunn, and A. Berger. “Phase sensitive, angle-resolved light-scattering microscopy of single cells,”
-Opt. Lett., Vol. 45, No. 24, 2020; https://doi.org/10.1364/OL.409345. (Editor’s Pick.)
+Opt. Lett., Vol. 45, No. 24, 2020; <https://doi.org/10.1364/OL.409345>. (Editor’s Pick.)
 
 B. Cochenour, K. Dunn, A. Laux and L. Mullen. “Experimental measurements of the magnitude and phase
-response of high-frequency modulated light underwater,” Appl. Opt., Vol. 56, No. 14, 2017; https://doi.org/10.1364/AO.56.004019.
+response of high-frequency modulated light underwater,” Appl. Opt., Vol. 56, No. 14, 2017; <https://doi.org/10.1364/AO.56.004019>.
 
 B. Cochenour, K. Morgan, K. Dunn, L. Mullen, K. Miller, and E. Johnson. “Propagation of optical beams carrying
-orbital angular momentum (OAM) in turbid water,” Appl. Opt., Vol. 55, No. 31, 2016; https://doi.org/10.1364/AO.55.000C34.
+orbital angular momentum (OAM) in turbid water,” Appl. Opt., Vol. 55, No. 31, 2016; <https://doi.org/10.1364/AO.55.000C34>.
 
 ## Presentations
 
-K. Dunn, C. Weil, and A. Berger "Refractive index-matching a cell’s immersion medium isolates organelle scattering and increases QPI contrast", Proc. SPIE PC11970, Quantitative Phase Imaging VIII, PC1197002 (2 March 2022); https://doi.org/10.1117/12.2631742.
+K. Dunn, C. Weil, and A. Berger "Refractive index-matching a cell’s immersion medium isolates organelle scattering and increases QPI contrast", Proc. SPIE PC11970, Quantitative Phase Imaging VIII, PC1197002 (2 March 2022); <https://doi.org/10.1117/12.2631742>.
 
 K. Dunn and A. Berger. “Simulating angular light scattering of non-nuclear organelles in single cells,” in
 Biophotonics Congress: Optics in the Life Sciences, oral presentation, Apr. 2021.
@@ -77,6 +77,8 @@ Naval Air Warfare Center, Patuxent River, MD
 - Conducted experiments to study the forward scattering and frequency response of intensity modulated laser light
 propagating through different scattering agents and water turbidities.
 - Designed and simulated adaptive channel equalization filters for underwater optical communication.
+
+
 <!-- ### Footer
 
 Last updated: May 2013 -->
