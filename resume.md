@@ -30,7 +30,7 @@ Barry Goldwater Scholarship Winner
 Barry Goldwater Scholarship Honorable Mention
 
 
-## Publications
+## Selected Publications
 
 <!-- A list is also available [online](https://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 
