@@ -48,7 +48,7 @@ Biophotonics Congress: Optics in the Life Sciences, oral presentation, Apr. 2021
 
 `2017 - present`
 __PhD Candidate, Angular Scattering from Single Cells__  
-The Institute of Optics, University of Rochester, NY  
+The Institute of Optics, University of Rochester, NY
 + Measuring angularly resolved light scattering to size ensembles of organelles in single cells with a phase shifting interferometry-based microscope.  
 + Designing and testing refractive index matching and digital processing methods to isolate organelle scattering from undesired nuclear and cytoplasm signal.  
 + Programmed a 3D cell simulation tool to improve understanding of the limiting noise sources in extracting size information from single cells, and to test ability to solve inverse problem in the presence of noise and assumptions about model simplicity.
