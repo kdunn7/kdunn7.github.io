@@ -69,17 +69,24 @@ Naval Air Warfare Center, Patuxent River, MD
 
 ## Selected Leadership and Teaching Experience
 __NASA Astrophysics Review and Analysis (APRA) Review Panel Executive Secretary,__ Mar. 2021, 2022.  
+
 __President,__ Univ. of Rochester SPIE Stud. Chap., 2021; Secretary, 2020; Communications, 2019.  
-+ Expanded equity, diversity and inclusion initiatives; planned 30+ chapter events in 2021.  \
-__Optics Rep.,__ Alliance for Diversity in Science and Engineering, Univ. of Rochester, Jul. 2020 - 2021.  
+- Expanded equity, diversity and inclusion initiatives; planned 30+ chapter events in 2021.
+
+__Optics Rep.,__ Alliance for Diversity in Science and Engineering, Univ. of Rochester, Jul. 2020 - 2021. 
+
 __Junior Graduate Representative,__ Optics, University of Rochester, Sep. 2018 - Aug. 2020.  
+
 __Teaching assistant,__ University of Rochester (2018-present), Clarkson University (2015-2017)
-+ Proposal Writing (2021), Biomedical Optics (2019), Electromagnetic Theory (2018), Physics for Life Sciences (2015, 2017), Team Design Physics Lab Course (2015-2017). 
-+ Taught recitations, held office hours, taught labs, mentored team-design lab course, graded homeworks / exams.  
+- Proposal Writing (2021), Biomedical Optics (2019), Electromagnetic Theory (2018), Physics for Life Sciences (2015, 2017), Team Design Physics Lab Course (2015-2017). 
+- Taught recitations, held office hours, taught labs, mentored team-design lab course, graded homeworks / exams.  
+
 __STEM outreach,__ University of Rochester (2017-present), Clarkson University (2014-2017)
-+ Mentored middle and high school students at optics and physics summer camps and in after-school programs.  
-+ Volunteered at community science outreach events and helped build homemade optics demonstrations for Rochester’s Lilac Festival.  
+- Mentored middle and high school students at optics and physics summer camps and in after-school programs.  
+- Volunteered at community science outreach events and helped build homemade optics demonstrations for Rochester’s Lilac Festival.  
+
 __Coach,__ JV/Varsity Nordic Ski Team, Pittsford High School, Pittsford, NY, Nov. 2017 - present  
+
 __Captain__ (2015-2017), Varsity Nordic Ski Team, Clarkson University, 2013-2017
 
 
