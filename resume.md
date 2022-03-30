@@ -63,14 +63,15 @@ information from single cells, and to test ability to solve inverse problem in t
 assumptions about model simplicity.
 
 `May-Aug. 2019`
-__Internship (NSF INTERN)__, Double Helix Optics, Boulder CO  
+__Internship (NSF INTERN)__,  
+Double Helix Optics, Boulder CO  
 - Tested and designed point spread function engineered phase masks for single-shot 3D imaging.
 - Implemented algorithms to discard outliers in 3D point cloud rendering.
 
 `May 2016 - May 2017`
 __Honors Thesis / Naval Research Enterprise Internship: Experimental channel measurements and simulated
-adaptive equalization filters for optical communication in turbid water__, 
-Dept. Elec. & Comp. Eng., Clarkson University
+adaptive equalization filters for optical communication in turbid water__,  
+Dept. Elec. & Comp. Eng., Clarkson University  
 Naval Air Warfare Center, Patuxent River, MD
 - Conducted experiments to study the forward scattering and frequency response of intensity modulated laser light
 propagating through different scattering agents and water turbidities.
