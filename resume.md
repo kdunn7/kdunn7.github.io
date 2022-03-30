@@ -53,7 +53,8 @@ Biophotonics Congress: Optics in the Life Sciences, oral presentation, Apr. 2021
 ## Selected Research and Industry Experiences
 
 `2017 - present`
-__PhD Candidate, Angular Scattering from Single Cells__, The Institute of Optics, University of Rochester, NY <br>
+__PhD Candidate, Angular Scattering from Single Cells__  
+The Institute of Optics, University of Rochester, NY <br>
 - Measuring angularly resolved light scattering to size ensembles of organelles in single cells with a phase shifting
 interferometry-based microscope.
 - Designing and testing refractive index matching and digital processing methods to isolate organelle scattering
@@ -69,8 +70,8 @@ Double Helix Optics, Boulder CO
 - Implemented algorithms to discard outliers in 3D point cloud rendering.
 
 `May 2016 - May 2017`
-__Honors Thesis / Naval Research Enterprise Internship: Experimental channel measurements and simulated
-adaptive equalization filters for optical communication in turbid water__,  
+__Honors Thesis / Naval Research Enterprise Internship:  
+Experimental channel measurements and simulated adaptive equalization filters for optical communication in turbid water__,  
 Dept. Elec. & Comp. Eng., Clarkson University  
 Naval Air Warfare Center, Patuxent River, MD
 - Conducted experiments to study the forward scattering and frequency response of intensity modulated laser light
