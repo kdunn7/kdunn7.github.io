@@ -9,26 +9,20 @@ I am currently a PhD candidate at the Institute of Optics, University of Rochest
 
 `2013-2017`
 __Clarkson University__
-B.S. Electrical Engineering (Honors) and Physics
-
+B.S. Electrical Engineering (Honors) and Physics  
 `2017-2019`
 __University of Rochester__
 M.S. Optics
 
 ## Awards
-
 `2022`
-BiOS 3 minute Poster Competition Winner, SPIE Photonics West
-
+BiOS 3 minute Poster Competition Winner, SPIE Photonics West  
 `2017`
-National Science Foundation Graduate Fellowship
-
+National Science Foundation Graduate Fellowship  
 `2016`
-Barry Goldwater Scholarship Winner
-
+Barry Goldwater Scholarship Winner  
 `2015`
 Barry Goldwater Scholarship Honorable Mention
-
 
 ## Selected Publications
 
@@ -55,7 +49,7 @@ Biophotonics Congress: Optics in the Life Sciences, oral presentation, Apr. 2021
 `2017 - present`
 __PhD Candidate, Angular Scattering from Single Cells__  
 The Institute of Optics, University of Rochester, NY <br>
-- Measuring angularly resolved light scattering to size ensembles of organelles in single cells with a phase shifting
+* Measuring angularly resolved light scattering to size ensembles of organelles in single cells with a phase shifting
 interferometry-based microscope.
 - Designing and testing refractive index matching and digital processing methods to isolate organelle scattering
 from undesired nuclear and cytoplasm signal.
