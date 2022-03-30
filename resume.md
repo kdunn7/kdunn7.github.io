@@ -70,7 +70,7 @@ Naval Air Warfare Center, Patuxent River, MD
 ## Selected Leadership and Teaching Experience
 __NASA Astrophysics Review and Analysis (APRA) Review Panel Executive Secretary,__ Mar. 2021, 2022.  
 __President,__ Univ. of Rochester SPIE Stud. Chap., 2021; Secretary, 2020; Communications, 2019.  
-+ Expanded equity, diversity and inclusion initiatives; planned 30+ chapter events in 2021.  
++ Expanded equity, diversity and inclusion initiatives; planned 30+ chapter events in 2021.  \
 __Optics Rep.,__ Alliance for Diversity in Science and Engineering, Univ. of Rochester, Jul. 2020 - 2021.  
 __Junior Graduate Representative,__ Optics, University of Rochester, Sep. 2018 - Aug. 2020.  
 __Teaching assistant,__ University of Rochester (2018-present), Clarkson University (2015-2017)
