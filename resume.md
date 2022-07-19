@@ -28,6 +28,8 @@ Barry Goldwater Scholarship Honorable Mention
 
 <!-- A list is also available [online](https://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 
+K. Dunn, T. Elias, E. Brown and A. Berger. “Matching an immersion medium’s refractive index to a cell’s cytosol isolates organelle scattering,” Biomed. Opt. Exp., Vol. 13, 2022; <https://doi.org/10.1364/BOE.461874>.
+
 R. Draham, K. Dunn, and A. Berger. “Phase sensitive, angle-resolved light-scattering microscopy of single cells,”
 Opt. Lett., Vol. 45, No. 24, 2020; <https://doi.org/10.1364/OL.409345>. (Editor’s Pick.)
 
